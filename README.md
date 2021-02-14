@@ -1,5 +1,5 @@
 # java_ex2
-Learning Data based on a given examples file, where every line has characteristics and a single classification, in order to predict the classifications of a test file containing only characteristics in each line. 
+Learning from training data, where every line has characteristics and a single classification, in order to predict the classifications of a test file containing only characteristics in each line. 
 
 The predictions will be made using the following algorithms: Decision Tree, Naïve Base and KNN.
 
